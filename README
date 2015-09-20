@@ -1,0 +1,4 @@
+to build:
+./build.sh
+to run:
+./track | ./sine
